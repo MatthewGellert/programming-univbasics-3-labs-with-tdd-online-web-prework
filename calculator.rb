@@ -1,2 +1,2 @@
-6
+first_number = 6
 
