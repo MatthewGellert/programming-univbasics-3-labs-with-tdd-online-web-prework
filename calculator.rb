@@ -1,2 +1,2 @@
 first_number = 6
-Second_number = 2
+Second_number = 0
